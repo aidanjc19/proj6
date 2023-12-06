@@ -1,2 +1,24 @@
-package PACKAGE_NAME;public class Ophone8 {
+public class OPhone8 extends OPhone {
+    private static final double screenSize = 5.5;
+    private static final int vidRes = 720;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+    @Override
+    public String getModel() {
+        return super.getModel() + "8";
+    }
+
+    @Override
+    public double getPrice() {
+        return super.getPrice() * 0.6;
+    }
+
+    @Override
+    public double getScreenSize() {
+        return screenSize;
+    }
+
+    @Override
+    public int getVidRes() {
+        return vidRes;
+    }
 }

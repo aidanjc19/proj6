@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="130f9e04-d88f-4bf9-b19a-726311d7e1f0" name="Changes" comment="" />
+    <list default="true" id="130f9e04-d88f-4bf9-b19a-726311d7e1f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/proj6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhone8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhone8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhone8Mini.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhone8Mini.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhone8MiniTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhone8MiniTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhone8Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhone8Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhone9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhone9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhone9Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhone9Max.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhone9MaxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhone9MaxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhone9Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhone9Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhoneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhoneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhoneX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhoneX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhoneXFilm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhoneXFilm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhoneXFilmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhoneXFilmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhoneXFold.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhoneXFold.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhoneXFoldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhoneXFoldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OPhoneXTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OPhoneXTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2YYFDao5nrCbe7tm0i99i1hyAjp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,13 +53,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,8 +87,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700694489896</updated>
-      <workItem from="1700694490962" duration="1000" />
+      <workItem from="1700694490962" duration="3805000" />
+      <workItem from="1701038506758" duration="1855000" />
+      <workItem from="1701043979749" duration="9312000" />
+      <workItem from="1701847908195" duration="451000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OPhoneXFilmTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/proj6$OPhone8Test.ic" NAME="OPhone8Test Coverage Results" MODIFIED="1701049048253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/proj6$OPhoneXFilmTest.ic" NAME="OPhoneXFilmTest Coverage Results" MODIFIED="1701051445954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/proj6$OPhoneTest.ic" NAME="OPhoneTest Coverage Results" MODIFIED="1701048247329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/proj6$OPhoneXFoldTest.ic" NAME="OPhoneXFoldTest Coverage Results" MODIFIED="1701052273546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/proj6$OPhone9MaxTest.ic" NAME="OPhone9MaxTest Coverage Results" MODIFIED="1701050545834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/proj6$OPhoneXTest.ic" NAME="OPhoneXTest Coverage Results" MODIFIED="1701050850250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/proj6$OPhone8MiniTest.ic" NAME="OPhone8MiniTest Coverage Results" MODIFIED="1701049347077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/proj6$OPhone9Test.ic" NAME="OPhone9Test Coverage Results" MODIFIED="1701049590443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
